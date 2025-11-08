@@ -1,0 +1,1 @@
+When pulling data, maybe we make a data structure that pulls a subsect of the data to show for any particular day or range of days in a week.
